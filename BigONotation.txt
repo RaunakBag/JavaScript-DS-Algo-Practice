@@ -1,0 +1,9 @@
+Objects - Unsorted key-pair values
+             - No order
+             - Fast access/removal
+                                                                 Object.methods
+Insertion - O(1)                                        * Object.keys - O(N)
+Deletion - O(1)                                         * Object.values - O(N)            
+Searching - O(N)                                      * Object.entries - O(N)  
+Access - O(1)                                           * hasOwnProperty - O(1)
+
