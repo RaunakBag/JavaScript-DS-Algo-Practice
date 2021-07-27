@@ -12,3 +12,20 @@ Object.methods
 * Object.values - O(N)
  * Object.entries - O(N)  
  * hasOwnProperty - O(1)
+
+ Arrays - Ordered Lists
+
+ Insertion - (Depends)                  
+ Deletion - (Depends)
+ Searching - O(N)
+ Access - O(1)
+
+ Array.methods - 
+ push - O(1)
+ pop - O(1)
+shift - O(N)
+unshift - O(N)
+concat - O(N)
+slice - O(N)
+sort - O(N * logN)
+forEach/map/filter/reduce - O(N)
