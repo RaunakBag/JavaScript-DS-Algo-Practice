@@ -1,0 +1,13 @@
+body{
+    margin:0;
+}
+.tributepage{
+    text-align: center;
+    background-color: #e9ecec;
+}
+.tributepage > img{
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+}
