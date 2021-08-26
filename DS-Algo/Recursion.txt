@@ -1,0 +1,9 @@
+* Recursive function is a function that calls itself  inside the same function.
+* When we write a recursive function, we keep pushing new  functions onto the call stack.
+* Call Stack is a stack data structure where the last item to be pushed in is at the top of the list and the first item to be popped out is the same first item. 
+* A simple example of stack is the call record of your  smartphone. The last call you received is at the top of the list.
+* In simple terms, stack can be defined as "LAST IN FIRST OUT". 
+
+* Two essential parts of a recursive function:-
+ 1. Base Case(End Point).
+ 2. Different Input.

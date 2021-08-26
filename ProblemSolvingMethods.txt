@@ -1,8 +1,0 @@
-Approach to be followed for solving problems
-1. Understand the problem.
-2.Concrete Examples.
-3. Break It Down.
-4.Solve or Simplify.
-5.Look Back and Refactor. 
-
-{* Working on Problem Solving Methodologies *}
