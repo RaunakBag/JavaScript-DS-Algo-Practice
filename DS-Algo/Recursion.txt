@@ -5,5 +5,22 @@
 * In simple terms, stack can be defined as "LAST IN FIRST OUT". 
 
 * Two essential parts of a recursive function:-
- 1. Base Case(End Point).
+ 1. Base Case(End Point) -> It should always contain a conditional.
  2. Different Input.
+
+ Example :-
+ function countDown(num){
+     if(num <= 0){  //Base Case or End Point
+         console.log("All Done!");
+         return;
+     }
+     console.log(num);
+     num--;
+     countDown(num);
+ }
+
+
+function factorial(num) {
+    if(num === 1) return 1;
+    return num * factorial(num - 1)
+}
