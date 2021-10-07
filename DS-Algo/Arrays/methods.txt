@@ -1,0 +1,29 @@
+Javascript Array Methods 
+
+* map()
+* filter()
+* sort()
+* forEach()
+* concat()
+* every()
+* some()
+* includes()
+* join()
+* reduce()
+* find()
+*findIndex()
+* indexOf()
+* fill()
+* slice()
+* reverse()
+* push()
+* pop()
+* shift()
+* unshift()
+
+
+
+
+
+
+
